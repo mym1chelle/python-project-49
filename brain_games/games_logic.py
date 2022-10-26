@@ -23,4 +23,4 @@ def common_games_logic(function):
                   f"Let's try again, {name}!")
             break
     if number_question == 3:
-        print(f'Congratulations, {name}')
+        print(f'Congratulations, {name}!')
